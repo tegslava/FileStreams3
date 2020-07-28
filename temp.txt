@@ -1,0 +1,12 @@
+27.07.2020 21:41:47: Каталог C:/temp/Game/src cоздан
+27.07.2020 21:41:47: Каталог C:/temp/Game/src/main cоздан
+27.07.2020 21:41:47: Файл C:/temp/Game/src/main/Main.java cоздан
+27.07.2020 21:41:47: Файл C:/temp/Game/src/main/Utils.java cоздан
+27.07.2020 21:41:47: Каталог C:/temp/Game/src/test cоздан
+27.07.2020 21:41:47: Каталог C:/temp/Game/res cоздан
+27.07.2020 21:41:47: Каталог C:/temp/Game/res/drawables cоздан
+27.07.2020 21:41:47: Каталог C:/temp/Game/res/vectors cоздан
+27.07.2020 21:41:47: Каталог C:/temp/Game/res/icons cоздан
+27.07.2020 21:41:47: Каталог C:/temp/Game/savegames cоздан
+27.07.2020 21:41:47: Каталог C:/temp/Game/temp cоздан
+27.07.2020 21:41:47: Файл C:/temp/Game/temp/temp.txt cоздан
