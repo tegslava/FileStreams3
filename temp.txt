@@ -15,11 +15,6 @@
 28.07.2020 22:59:51: Игра сохранена в C:\temp\Game\savegames\save3.dat
 28.07.2020 22:59:51: Файлы в папке C:\temp\Game\savegames помещены в архив C:\temp\Game\savegames\zip.zip
 28.07.2020 22:59:51: Из папки C:\temp\Game\savegames удалены файлы сохранения игры
-28.07.2020 23:37:30: Игра сохранена в C:\temp\Game\savegames\save1.dat
-28.07.2020 23:37:30: Игра сохранена в C:\temp\Game\savegames\save2.dat
-28.07.2020 23:37:30: Игра сохранена в C:\temp\Game\savegames\save3.dat
-28.07.2020 23:37:30: Файлы в папке C:\temp\Game\savegames помещены в архив C:\temp\Game\savegames\zip.zip
-28.07.2020 23:37:30: Из папки C:\temp\Game\savegames удалены файлы сохранения игры
 28.07.2020 23:55:17: Разархивирован файл C:\temp\Game\savegames\zip.zip
 28.07.2020 23:55:17: Состояние игры из файла C:\temp\Game\savegames\save1.dat
 28.07.2020 23:55:17: GameProgress{health=100, weapons=80, lvl=1, distance=10.0}
